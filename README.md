@@ -1,3 +1,5 @@
+!!FULL PROJECT EXPLANATION FOUND ON DobotReportDiRienzoMori!!
+
 All files related to the Dobot project made during our Internship:
 
   Core Files:
